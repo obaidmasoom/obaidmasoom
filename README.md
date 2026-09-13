@@ -1,54 +1,63 @@
 ## Hi, I'm Obaid 👋
 
-### ERP Project Manager | ERP Consultant | Digital Transformation
+### Project Manager | ERPNext & Openbravo | ERP Implementation & Integrations | Digital Transformation
 
-I work at the intersection of business process and technology, helping organizations plan and deliver ERP implementations end to end — from requirements gathering and process analysis through configuration, integration, and go-live support. My focus area is **ERPNext / Frappe**, with an emphasis on practical, well-documented implementations over one-off customization.
+I'm a Project Manager at **EasyCloud**, driving ERPNext and Openbravo implementations for B2B and B2C clients. With 4+ years in ERP project delivery — and a background in software development before moving into project management — I lead cross-functional teams through requirements gathering, system design, customization, testing, user training, deployment, and ongoing support.
 
 ### What I Work With
 
 - ERP Project Management
 - ERP Implementation & Rollout Planning
 - ERPNext / Frappe
+- Openbravo
 - Business Process Analysis
 - Requirements Gathering & Functional Consulting
 - Workflow & Process Optimization
 - Digital Transformation
-- Technical & Functional Coordination
+- Stakeholder & Cross-Functional Coordination
 
 ### Professional Focus
 
-My role sits between business stakeholders and the technical team: translating operational requirements into functional specifications, coordinating implementation activities across departments, and making sure configuration and customization decisions actually solve the process problem they were meant to solve. In practice, that means as much time in requirements workshops and UAT sessions as in reviewing configuration and integration work.
+My project work spans end-to-end ERP rollouts as well as the system integrations that connect them to the rest of a business — e-commerce platforms (Shopify), payment gateways (Axis Bank), messaging/SMS APIs, ISBN barcode systems, and AI chatbot modules. The goal on every engagement is the same: unified workflows and outcomes the business can actually measure, delivered by teams that are aligned on requirements before a single line of configuration happens.
 
-### ERP Implementation Lifecycle
+### Implementation Methodology
 
 ```mermaid
 flowchart LR
-    A[Business Requirements] --> B[Process Analysis]
-    B --> C[ERP Strategy]
-    C --> D[Implementation]
-    D --> E[Configuration & Development]
-    E --> F[Integration]
-    F --> G[Testing]
-    G --> H[Deployment]
-    H --> I[Optimization]
+    A[Kick-Off] --> B[Requirement Study]
+    B --> C[Draft Installation]
+    C --> D[Conference Room Pilot 1]
+    D --> E[Gap Analysis & Customization]
+    E --> F[Conference Room Pilot 2]
+    F --> G[Training & Fine-Tuning]
+    G --> H[Dry-Run & Hand-Holding]
+    H --> I[Go-Live]
+    I --> J[Post Go-Live Support]
 ```
 
 ### Technology & Platforms
 
 - ERPNext / Frappe
+- Openbravo
 - Python
 - JavaScript
 - SQL
 - Git / GitHub
 - APIs & System Integrations
 
+### Selected Projects
+
+- **ERP Implementation — SLMG Group** (Nov 2023–Present): ERPNext and web portal implementation.
+- **ERP & POS Implementation — Book Store** (Feb 2022–Present, via EasyCloud): End-to-end implementation covering Inventory, POS, Finance & Accounting, HR, Reporting/BI, E-commerce integration, Warehouse Management, Order-to-Cash, and Purchase-to-Pay.
+
 ### Featured Work
 
-Most of my ERP configuration and implementation work lives inside client environments and private company repositories rather than public open-source projects. The public repository below reflects ongoing personal technical practice:
+Most of my day-to-day ERP configuration and implementation work lives inside client environments and private company repositories rather than public open-source projects. The public repository below reflects ongoing personal technical practice:
 
 - [JAVA_PRAC](https://github.com/obaidmasoom/JAVA_PRAC) — Java and JavaScript practice exercises
 
 ### Connect With Me
 
+- [LinkedIn](https://www.linkedin.com/in/obaid-masoom/)
 - [X / Twitter](https://twitter.com/ObaidMasoom)
 - [GitHub](https://github.com/obaidmasoom)
