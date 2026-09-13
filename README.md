@@ -2,13 +2,12 @@
 
 ### ERP Project Manager | ERP Consultant | Digital Transformation
 
-I work at the intersection of business process and technology, currently with **EasyCloud**, helping organizations plan and deliver ERP implementations end to end — from requirements gathering and process analysis through configuration, integration, and go-live support. My focus areas are **Odoo** and **ERPNext / Frappe**, with an emphasis on practical, well-documented implementations over one-off customization.
+I work at the intersection of business process and technology, helping organizations plan and deliver ERP implementations end to end — from requirements gathering and process analysis through configuration, integration, and go-live support. My focus area is **ERPNext / Frappe**, with an emphasis on practical, well-documented implementations over one-off customization.
 
 ### What I Work With
 
 - ERP Project Management
 - ERP Implementation & Rollout Planning
-- Odoo
 - ERPNext / Frappe
 - Business Process Analysis
 - Requirements Gathering & Functional Consulting
@@ -36,7 +35,6 @@ flowchart LR
 
 ### Technology & Platforms
 
-- Odoo
 - ERPNext / Frappe
 - Python
 - JavaScript
@@ -54,4 +52,3 @@ Most of my ERP configuration and implementation work lives inside client environ
 
 - [X / Twitter](https://twitter.com/ObaidMasoom)
 - [GitHub](https://github.com/obaidmasoom)
-
